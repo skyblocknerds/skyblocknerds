@@ -1,6 +1,6 @@
 # SkyBlock Nerds
 
-Hey there! Welcome to the official GitHub page for **SkyBlock Nerds (SBN)** — a group of passionate Hypixel SkyBlock players who help shape the future of the game by offering feedback, ideas, and discussion directly with developers.
+Hey there! Welcome to the GitHub page for **SkyBlock Nerds (SBN)** — a group of passionate Hypixel SkyBlock players who help shape the future of the game by offering feedback, ideas, and discussion directly with developers.
 
 ## 🎉 Applications Are OPEN!
 
