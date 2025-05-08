@@ -71,13 +71,6 @@ We’ve found younger applicants often struggle with maturity or following rules
 
 ---
 
-## 🧪 Want to Test Ideas in Action?
-
-Check out **[RainbowCraft2](https://www.rainbowcraft2.net)** — a creative server we use for testing and prototyping SkyBlock-inspired concepts.  
-It's a great place to play around with game design ideas and even show off your concepts.
-
----
-
 ## 💬 Got More Questions?
 
 Hit us up on the forums or in the SBN Discord (if you're invited).  
